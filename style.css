@@ -1,0 +1,71 @@
+.fblogo img{
+    height: 7em;
+}
+.fblogo{
+    padding-top: 10em;
+    padding-left: 13em;
+
+
+}
+
+.fblogo h2{
+    padding-left: 35px;
+    width: 590px;
+    font-weight: 500;
+    font-size: 28px;
+}
+
+.epform{
+    max-width: 400px;
+    height: 20em;
+    border-radius: 10px;
+    background-color: white;
+    
+}
+.epform input{
+    max-width: 90%;
+}
+.epform a{
+    text-decoration: none;
+    padding-top: 20px;
+}
+
+.epform button{
+    max-width: 90%;
+    border-radius: 10px;
+    border-color: transparent;
+}
+.epform2{
+    padding-top: 10em;
+}
+.login{
+    font-size: 1.5em;
+    font-weight: 500;
+    height: 50px;
+    width: 400px;
+    background-color: #1877F2;
+    color: white;
+}
+.bgbg{
+    background-color: #F0F2F5;
+    height: 100vh;
+    /* width: 100vw; */
+}
+.divide{
+    padding-left: 20px;
+    padding-right: 20px;
+}
+.cna{
+    background-color: #42B72A;
+    color: white;
+    font-size: 18px;
+    font-weight: 500;
+    height: 50px;
+    width: 200px;
+}
+
+@media(max-width:586px) {
+    .fblogo{
+        display: none;
+    }
+}
